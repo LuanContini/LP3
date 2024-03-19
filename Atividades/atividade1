@@ -1,0 +1,29 @@
+Atividade 1:
+
+1) Crie uma lista de inteiros e adicione 5 números à lista. Em seguida, imprima todos os
+números na lista.
+2) Crie uma lista de Strings que represente uma lista de compras. Adicione alguns itens à
+lista e, em seguida, use um loop para imprimir todos os itens. Finalmente, remova um item
+da lista e imprima a lista novamente para verificar se o item foi removido.
+
+Exemplo de Herança
+
+1) Crie uma classe Planta com um método fotossintese(). Em seguida, crie duas classes,
+Flor e Arvore, que herdam de Planta e sobrescrevem o método fotossintese().
+2) Crie uma classe abstrata InstrumentoMusical com métodos abstratos tocar() e afinar().
+Em seguida, crie duas classes, Violao e Piano, que herdam de InstrumentoMusical e
+implementam os métodos tocar() e afinar().
+
+Exemplo de Interface
+
+1) Crie uma interface DispositivoEletronico com métodos ligar() e desligar(). Em seguida,
+crie duas classes, Televisao e Computador, que implementam a interface
+DispositivoEletronico e implementam os métodos ligar() e desligar().
+
+Exemplo de Tratamento de Exceção
+
+Exemplo de Exceção definida pelo usuário
+
+1) Crie uma classe Livro com um método lerPagina(int pagina). Este método deve
+lançar uma exceção se a página for menor que 1 ou maior que o número total de
+páginas do livro.
